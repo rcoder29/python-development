@@ -1,21 +1,29 @@
 # Help file for the Python Development Landscape
 
-- Python Core Language Features
+Core Language Features - 
+- Python Core Language Data Structures, programming fundamentals
+https://www.tutorialspoint.com/python/index.htm
+https://docs.python.org/2/tutorial/index.html
+
+- Python Threading
+
+- Python Exception Handling
+
+- Unit Testing in Python
+
+Frameworks in Python - 
+- Pandas Framework for Data Frames
+
+- Flask framework for REST services development
+https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 
 - Beautiful Soup for web scraping
 
-- Flask framework for REST services development
-
-- Pandas Framework for Data Frames
-
+Data Access in Python - 
 - Python Database Programming
-
 - Python Mongo database Programming
-
 - Elastic Search Access using Python
 
 
-Reference Tutorial Links -
-https://www.tutorialspoint.com/python/index.htm
-https://docs.python.org/2/tutorial/index.html
+Reference Links -
 
