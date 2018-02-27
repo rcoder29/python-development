@@ -117,4 +117,4 @@ print(person.get_height()) # print through getter and not getter
 print(person.height)
 print(person.fullname)  # no brackets, because of the property decorator!
 print(dir(person)) # inspect an object!
-print(person) # calls string convertion of an object 
+print(person) # calls string convertion of an object
